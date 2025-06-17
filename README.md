@@ -48,11 +48,11 @@ A full-featured book management application with user authentication, allowing u
 
 3️⃣ **Start the Server**
 
-## For Backend
+**For Backend**
 
 `npm start`
 
-## For Frontend
+**For Frontend**
 
 `npm run dev`
 
